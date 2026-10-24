@@ -39,7 +39,7 @@ BLOG_GENERATOR/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/sumitpatil27/Blog-Generator.git
+https://github.com/sumitpatil27/AI-Blog-Generator.git
 cd Blog-Generator
 ```
 

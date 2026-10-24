@@ -1,0 +1,40 @@
+# Virtual Environments
+myenv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Model Files (optional - only if very large)
+*.h5
+*.pt
+*.pth
+
+# Temporary Files
+temp/
+tmp/
